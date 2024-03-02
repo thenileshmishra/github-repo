@@ -6,7 +6,7 @@ A modern web application built with React, TypeScript, and the GitHub API that a
 
 - 🔍 Search GitHub repositories with real-time results
 - 📱 Responsive design that works on all devices
-- 🎨 Modern UI with Tailwind CSS
+- 🎨 Clean and modern UI with CSS Modules
 - ⚡ Fast and efficient search using GitHub's API
 - 📊 View repository details including stars, forks, and language
 - 🔄 Infinite scroll pagination for search results
@@ -17,7 +17,7 @@ A modern web application built with React, TypeScript, and the GitHub API that a
 - React 18
 - TypeScript
 - Vite
-- Tailwind CSS
+- CSS Modules
 - GitHub REST API
 - React Router DOM
 - React Icons
@@ -91,4 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [GitHub REST API](https://docs.github.com/en/rest)
 - [React Icons](https://react-icons.github.io/react-icons/)
-- [Tailwind CSS](https://tailwindcss.com/)
